@@ -8,7 +8,7 @@ NIM : 312210499
 Kelas : TI.22.C4
 
 - koding
-![ss](https://github.com/user-attachments/assets/a974c83b-4383-47b0-9888-c5f4b9c91e0a)
+![WhatsApp Image 2025-01-15 at 13 34 49](https://github.com/user-attachments/assets/cd39b5fb-a4f1-452b-a591-7e37430d5214)
 
 - hasil
   ![hasil 1](https://github.com/user-attachments/assets/40396ea6-4d5c-4300-8d53-debc1e066ec5)
